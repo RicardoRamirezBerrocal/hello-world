@@ -64,7 +64,7 @@ Esta parte cumple un rol muy importante en los proyectos en colaboración, ya qu
 
    ![Paso 1](https://github.com/RicardoRamirezBerrocal/hello-world/src/images/solicita_paso1.png "Esta parte es más difícil de localizar")
 
-2. Seleccionar que se compare la nueva rama con la rama `main`. Se verán los cambios que has realizado entre las dos ramas.
+2. Seleccionar que se compare la nueva rama con la rama `main`. Se verán los cambios que has realizado entre las dos ramas. Después se le hace click a `Create pull request`.
 
    ![Paso 2](https://github.com/RicardoRamirezBerrocal/hello-world/src/images/solicita_paso2.png "También puedes elegir de una tabla llamada Example comparisons")
 
