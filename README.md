@@ -1,10 +1,11 @@
-# Tarea 3: creación de un repositorio Hello World
-En esta tarea seguimos las instrucciones que se pueden crear en la guía [Hello World](https://docs.github.com/en/get-started/quickstart/hello-world). En esta guía se muestra:
-* Cómo crear un repositorio.
-* Cómo crear una rama.
-* Cómo añadir y guardar cambios.
-* Cómo solicitar hacer definitivos unos cambios.
-* Cómo mezclar dos ramas.
+# Cambios de esta rama vía pull (by Adalid)
+Lo primero sería añadir una imagen en esta línea
+Instrucciones que se pueden crear en la guía [Hello World](https://docs.github.com/en/get-started/quickstart/hello-world). En esta guía se muestra:
+1 Cómo crear un repositorio.
+2 Cómo crear una rama.
+3 Cómo añadir y guardar cambios.
+4 Cómo solicitar hacer definitivos unos cambios.
+ Cómo mezclar dos ramas.
 Este repositorio *hello-world* es el producto de seguir la guía. Todos los pasos realizados se documentan en este **README.md**.
 ### Parte 1: Creación del repositorio
 Los repositorios son la parte fundamental del trabajo en GitHub, ya que es la forma en la que se organizan los proyectos. Para crear un repositorio, debemos:
